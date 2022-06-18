@@ -1,2 +1,2 @@
 # ProjetosDIO
-Projetos DIO - incluindo bootcamp Santander
+Projetos DIO - Bootcamp Santander
